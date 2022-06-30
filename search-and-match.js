@@ -1,6 +1,6 @@
 // Commenting on your code is one of the best ways than taking physical notes on pen and paper; I do both ;
 
-// An array of JavaScript Books; Make a new array with the books which contains the exact string "JavaScript" in int. Have to be case-insensitive;
+// An array of JavaScript Books; Make a new array with the books which contains the exact string "JavaScript" in it. Have to be case-insensitive;
 
 const jsBooks = [
   "A Smarter Way to Learn JavaScript",
